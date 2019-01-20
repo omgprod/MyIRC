@@ -1,0 +1,22 @@
+{
+  "name": "w2jsc502p3",
+  "description": "chat irc",
+  "website": "https://github.com/socketio/chat-example",
+  "repository": "git@git.epitech.eu:/brian.haggery@epitech.eu/w2jsc502p3",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
